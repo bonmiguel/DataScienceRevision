@@ -1,0 +1,14 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+
+# Editor and OS noise
+.ipynb_checkpoints/
+.DS_Store
+
+# Optional local environment files
+.env
+.env.*
