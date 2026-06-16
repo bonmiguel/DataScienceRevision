@@ -12,3 +12,6 @@ __pycache__/
 # Optional local environment files
 .env
 .env.*
+
+# Large datasets (downloaded via Kaggle API)
+YTDataset/
